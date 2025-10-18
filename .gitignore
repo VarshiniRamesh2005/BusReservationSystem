@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+BusReservation.exe
+BusReservation
+*.out
+
+# Backup files
+*~
+*.bak
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs (optional if you don't want to push logs)
+data/logs.txt
